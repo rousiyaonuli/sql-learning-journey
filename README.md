@@ -1,4 +1,5 @@
-### learned from SqlBolt
+### Independent learning SQL through [SQLBolt](https://sqlbolt.com/).
+
 All Lessons
 
 Introduction to SQL
